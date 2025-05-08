@@ -1,0 +1,2 @@
+C:/Users/alumnat/Desktop/WeatherApp/WeatherApp/android/app/.cxx/Debug/864214u3/x86/CMakeFiles/edit_cache.dir
+C:/Users/alumnat/Desktop/WeatherApp/WeatherApp/android/app/.cxx/Debug/864214u3/x86/CMakeFiles/rebuild_cache.dir
